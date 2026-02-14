@@ -1,2 +1,4 @@
-# alwafa-bekarynew
-Bakery to pay sandwich 
+streamlit
+pandas
+matplotlib
+seaborn
